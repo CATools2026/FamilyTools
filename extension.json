@@ -2,12 +2,12 @@
   "builtin": "False",
   "type": "extension",
   "rocket_mode_compatible": "True",
-  "name": "ClashNavigator",
-  "description": "Revit clash navigation and coordination tool",
+  "name": "FamilyTools",
+  "description": "Revit families export import and load to the projects",
   "author": "Chulan Adasuriya",
   "author_profile": "https://github.com/CATools2026",
-  "url": "https://github.com/CATools2026/ClashNavigator.extension.git",
-  "website": "https://github.com/CATools2026/ClashNavigator.extension",
+  "url": "https://github.com/CATools2026/FamilyTools.extension.git",
+  "website": "https://github.com/CATools2026/FamilyTools.extension",
   "image": "",
   "dependencies": []
 }
