@@ -1,4 +1,4 @@
-# Dtech Revit Tools — pyRevit Extension
+#Revit Tools — pyRevit Extension
 
 Author: **Chulan Adasuriya**  ·  Version: **V.1.0.0**
 
