@@ -41,4 +41,3 @@ Requires pyRevit (free).
 - Requires Revit 2017+ (uses `PostRequestForElementTypePlacement`).
 - Annotation families place into the active view, so be in a suitable view
   before placing tags or symbols.
-- The Family Library button has been removed (to be re-added later).
